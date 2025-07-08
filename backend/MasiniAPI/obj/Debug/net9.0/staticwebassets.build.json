@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "IRkYhQBdOHjGfYQpIxTCsYEOp/CRy9h+O9hZDw1XYlo=",
+  "Source": "MasiniAPI",
+  "BasePath": "_content/MasiniAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
